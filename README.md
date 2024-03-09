@@ -1,2 +1,2 @@
-# mikemayowa.highridge-construction-payment-system
+# mikemayowa.payment-system
 payment-system
